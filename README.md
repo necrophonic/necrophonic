@@ -13,7 +13,7 @@ $> cd <repo>
 $> hugo
 ```
 
-This will build a new `public` folder. Commit and push back to `master`
+This will build a new `public` folder. Commit and push back to `master` in the submodule
 
 ## License
 
