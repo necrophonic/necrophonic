@@ -28,7 +28,7 @@ title = "necrophonic"
   avatar = "img/gopher.png"
   favicon = "img/favicon.ico"
   error404 = "There is no such page"
-  email = ""
+  email = "n3crophonic+github@gmail.com"
 
   [params.contact]
     github = "https://github.com/necrophonic"
