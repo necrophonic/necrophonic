@@ -1,7 +1,3 @@
 [submodule "themes/vncnt-hugo"]
 	path = themes/vncnt-hugo
 	url = https://github.com/fncnt/vncnt-hugo
-[submodule "public"]
-	path = public
-	url = git@github.com:necrophonic/necrophonic.github.io.git
-	branch = master
